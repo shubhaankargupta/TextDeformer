@@ -19,7 +19,6 @@ tensorboard
 easydict 
 cholespy 
 fire
-torch-scatter 
-torch-sparse
+torch-scatter torch-sparse -f https://data.pyg.org/whl/torch-2.3.0+cu121.html
 -f https://data.pyg.org/whl/torch-1.13.1+11.7.html
 pymeshlab
